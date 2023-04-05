@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Fillipe 👋
 
-- 🔭 Hoje trabalho com Front-End e Back-End com React e Node
-- 🌱 Estudando React Native, Docker
+- 🔭 Hoje trabalho com React e Node tanto no Front-End e Back-End. 
+- 🌱 Estudando React Native e Docker
 - 😄 Pronouns: ele/dele
 
 ##
@@ -14,9 +14,17 @@
 
 ##
 
+
+<div align="center">
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfillipe&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
+  
+
+  
 <div align="center">
   <img align="center" alt="Fillipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fillipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
