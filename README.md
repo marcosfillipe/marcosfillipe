@@ -30,12 +30,14 @@
   <img align="center" alt="Fillipe-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
+##
+
+![snake gif](https://github.com/marcosfillipe/marcosfillipe/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosfillipe}/count.svg" /></p> 
 <br>
 </div>
-
-##
-
-![snake gif](https://github.com/marcosfillipe/marcosfillipe/blob/output/github-contribution-grid-snake.svg)
