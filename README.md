@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Marcos Fillipe 👋
+
 <a href = "mailto:marcosfillipebezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -7,12 +8,12 @@
 
 ##
 
-<div align="center">
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfillipe&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcosfillipe&show_icons=true&count_private=true&theme=material-palenight" alt="Marcos Fillipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&theme=material-palenight" />
 </div>
+
+
 
   
 ## **Tecnologias que uso no meu dia**
