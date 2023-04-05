@@ -14,4 +14,3 @@
 
 ##
 
-![snake gif](https://github.com/marcosfillipe/marcosfillipe/blob/output/github-contribution-grid-snake.svg)
