@@ -13,7 +13,7 @@
 </div>
 
 ##
-
+<br>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 </div>
 
   
-
+## **Tecnologias que uso no meu dia**
   
 <div align="center">
   <img align="center" alt="Fillipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
