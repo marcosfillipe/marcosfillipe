@@ -1,19 +1,11 @@
 ## Olá! Eu sou o Marcos Fillipe 👋
+<a href = "mailto:marcosfillipebezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 Hoje trabalho com React e Node tanto no Front-End e Back-End. 
+- 🔭 Hoje trabalho com React e Node com o Front-End e Back-End das minhas aplicações. 
 - 🌱 Estudando React Native e Docker
-- 😄 Pronouns: ele/dele
 
 ##
-
-<br>
-<div align="center"> 
-  <a href = "mailto:marcosfillipebezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-<br>
 
 <div align="center">
 
