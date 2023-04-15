@@ -53,7 +53,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 <img  alt="Yarn" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
 <img  alt="PostgresSQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/> 
-<img  alt="Trello" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+<img  alt="ClickUp" height="50px" style="padding-right:10px;" src="./img/clickup.svg"/>
 <img  alt="Notion" height="50px" style="padding-right:10px;" src="./img/notion.svg"/>
 
 </div>
