@@ -5,7 +5,8 @@
   
 <a href = "mailto:marcosfillipebezerra@gmail.com" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/gmail.svg" alt="gmail" width="40px"></a>
 <a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin.svg" alt="linkedin" width="40px"></a> 
-  
+<a href="https://night-glitter-fd8.notion.site/Marcos-Fillipe-Portfolio-a316c2876b394c948a2badf151c323da" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/portfolio.svg" alt="linkedin" width="40px"></a> 
+
 </div>
 
 - 🔭 Hoje trabalho com React e Node com o Front-End e Back-End das minhas aplicações. 
