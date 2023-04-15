@@ -13,19 +13,27 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 <div align="center">
   
 <a href = "mailto:marcosfillipebezerra@gmail.com" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/gmail.svg" alt="gmail" width="40px"></a>
-<a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin.svg" alt="linkedin" width="40px"></a> 
+<a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin2.svg" alt="linkedin" width="40px"></a> 
 <a href="https://night-glitter-fd8.notion.site/Marcos-Fillipe-Portfolio-a316c2876b394c948a2badf151c323da" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/portfolio.svg" alt="linkedin" width="40px"></a> 
 
 </div>
 
-- 🔭 Hoje trabalho com React e Node com o Front-End e Back-End das minhas aplicações. 
-- 🌱 Estudando React Native e Docker
+---
+
+<h2 style="color: #44AEFB">📌 Status </h2>
+
+<br>
+
+- 🔭 Atualmente trabalho com React e Node com o Front-End e Back-End das minhas aplicações. 
+- 🌱 Estudando React Native e Docker para aperfeiçoar skills
 
 ##
 
 <h2 style="color: #44AEFB">⚙️ Linguagens e Ferramentas</h2>
 <div align="center" style="display:block;">
+<br>
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+<br>
 </div>
 <br>
 
@@ -70,7 +78,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 
 </div>
 
-<h2 style="color: #44AEFB">🚀 Últimos Commits</h2>
+<h2 style="color: #44AEFB">🚀 Últimos Commits </h2>
 
 <div align="center">
 
