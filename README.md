@@ -1,5 +1,14 @@
 ## Olá! me chamo Marcos Fillipe 👋
 
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+Sou um desenvolvedor de software full-stack. Sou apaixonado por tecnologia e estou sempre em busca de conhecimento e atualização em relação às ferramentas e linguagens de programação.
+
+Atualmente, meu foco está direcionado para a linguagem JavaScript, utilizando o React para desenvolvimento de aplicações Front-End e o Node para APIs no ambiente de Back-End.
+
+Acredito que a tecnologia é uma área em constante evolução e, por isso, busco estar sempre atualizado e aprimorando minhas habilidades. Sou um entusiasta da programação e estou sempre buscando novos desafios e projetos para me aprimorar ainda mais.
+</p> 
+
+---
 
 <div align="center">
   
