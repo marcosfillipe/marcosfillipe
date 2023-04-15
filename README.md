@@ -60,7 +60,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 
 <br>
 
-<h2 style="color: #44AEFB">📊 Estatísticas</h2>
+<h2 style="color: #44AEFB">📊 Estatísticas GitHub</h2>
 
 <div align="center" height="50%">
 
