@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Fillipe 👋
 
-<a href = "mailto:marcosfillipebezerra@gmail.com" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/gmail.svg" alt="gmail" width="40px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin.svg" alt="linkedin" width="40px" target="_blank"></a> 
+<a href = "mailto:marcosfillipebezerra@gmail.com" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/gmail.svg" alt="gmail" width="40px"></a>
+<a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin.svg" alt="linkedin" width="40px"></a> 
 
 - 🔭 Hoje trabalho com React e Node com o Front-End e Back-End das minhas aplicações. 
 - 🌱 Estudando React Native e Docker
