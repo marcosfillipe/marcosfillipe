@@ -1,4 +1,4 @@
-## Olá! me chamo Marcos Fillipe 👋
+## Olá! Me chamo Marcos Fillipe 👋
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 Sou um desenvolvedor de software full-stack. Sou apaixonado por tecnologia e estou sempre em busca de conhecimento e atualização em relação às ferramentas e linguagens de programação.
@@ -21,7 +21,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 
 ---
 
-<h2 style="color: #44AEFB">📌 Status </h2>
+<h2 style="color: #44AEFB">📌 Status Atual </h2>
 
 <br>
 
@@ -57,6 +57,8 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 <img  alt="Notion" height="50px" style="padding-right:10px;" src="./img/notion.svg"/>
 
 </div>
+
+<br>
 
 <h2 style="color: #44AEFB">📊 Estatísticas</h2>
 
