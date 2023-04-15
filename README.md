@@ -13,6 +13,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 <div align="center">
   
 <a href = "mailto:marcosfillipebezerra@gmail.com" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/gmail.svg" alt="gmail" width="40px"></a>
+<a href = "https://api.whatsapp.com/send?phone=5585998434068" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/whatsapp.svg" alt="gmail" width="40px"></a>
 <a href="https://www.linkedin.com/in/marcos-fillipe-bezerra" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/linkedin2.svg" alt="linkedin" width="40px"></a> 
 <a href="https://night-glitter-fd8.notion.site/Marcos-Fillipe-Portfolio-a316c2876b394c948a2badf151c323da" target="_blank"><img style="margin: 0 10px 10px 0;" src="./img/portfolio.svg" alt="linkedin" width="40px"></a> 
 
@@ -53,6 +54,7 @@ Acredito que a tecnologia é uma área em constante evolução e, por isso, busc
 <img  alt="Yarn" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
 <img  alt="PostgresSQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/> 
 <img  alt="Trello" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+<img  alt="Notion" height="50px" style="padding-right:10px;" src="./img/notion.svg"/>
 
 </div>
 
