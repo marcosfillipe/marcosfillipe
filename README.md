@@ -41,15 +41,14 @@
 
 <h2 style="color: #44AEFB">📊 Estatísticas</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfillipe&show_icons=true&count_private=true&theme=algolia&border_radius=20)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfillipe&locale=pt-BR&show_icons=true&count_private=true&theme=algolia&border_radius=20)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcosfillipe&count_private=true&theme=algolia&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&fire=EB0404&currStreakNum=CF4A4A&ring=EB7023)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfillipe&locale=pt-BR&layout=compact&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -57,8 +56,12 @@
 
 ##
 
+<div align="center">
+
 ![snake gif](https://github.com/marcosfillipe/marcosfillipe/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+  
 ##
 
 <div align="center">
