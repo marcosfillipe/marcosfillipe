@@ -8,9 +8,14 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcosfillipe&show_icons=true&count_private=true&theme=material-palenight" alt="Marcos Fillipe github stats" /> 
-  <img width="41%" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&theme=material-palenight" />
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfillipe&show_icons=true&count_private=true&theme=algolia&border_radius=20)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcosfillipe&theme=algolia&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&fire=EB0404&currStreakNum=CF4A4A&ring=EB7023)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfillipe&layout=compact&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
